@@ -1,2 +1,2 @@
-beginner_tutorials
+ar_tag_demo:ar_track_alvar/ar_track_alvar:ar_track_alvar/ar_track_alvar_msgs:beginner_tutorials:usb_cam
 -DCATKIN_DEVEL_PREFIX=/home/parallels/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/catkin_ws/install -G Unix Makefiles
