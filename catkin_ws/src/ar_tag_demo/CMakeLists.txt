@@ -9,6 +9,7 @@ project(ar_tag_demo)
 ## is used, also find other catkin packages
 find_package(catkin REQUIRED COMPONENTS
   rospy
+  roscpp
   std_msgs
 )
 
@@ -119,6 +120,8 @@ include_directories(
   ${catkin_INCLUDE_DIRS}
 )
 
+add_executable(arlistener src/ar_tag_telemetry.cpp)
+target_link_libraries(arlistener ${catkin_LIBRARIES})
 ## Declare a C++ library
 # add_library(${PROJECT_NAME}
 #   src/${PROJECT_NAME}/ar_tag_demo.cpp
