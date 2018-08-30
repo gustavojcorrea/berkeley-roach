@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: ros_openroach
+Description: Description of ros_openroach
+Version: 0.0.0
+Cflags: -I/home/ubuntu/catkin_ws/src/ros_openroach/include
+Libs: -L/home/ubuntu/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs geometry_msgs edumip_msgs
