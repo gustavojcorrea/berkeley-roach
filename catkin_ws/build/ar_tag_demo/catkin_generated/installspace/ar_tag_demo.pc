@@ -1,8 +1,0 @@
-prefix=/home/parallels/catkin_ws/install
-
-Name: ar_tag_demo
-Description: Description of ar_tag_demo
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/parallels/catkin_ws/install/lib 
-Requires: 

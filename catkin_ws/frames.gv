@@ -1,7 +1,0 @@
-digraph G {
-"camera_link" -> "ar_marker_0"[label="Broadcaster: /ar_track_alvar\nAverage rate: 8.297 Hz\nMost recent transform: 1535583632.620 ( 0.178 sec old)\nBuffer length: 4.701 sec\n"];
-edge [style=invis];
- subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
-"Recorded at time: 1535583632.799"[ shape=plaintext ] ;
- }->"camera_link";
-}

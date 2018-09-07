@@ -1,2 +1,0 @@
-ar_tag_demo:ar_tag_toolbox:ar_track_alvar/ar_track_alvar:ar_track_alvar/ar_track_alvar_msgs:beginner_tutorials:learning_tf:ros-tag-tracking:usb_cam:vision_visp/vision_visp:vision_visp/visp_auto_tracker:vision_visp/visp_bridge:vision_visp/visp_camera_calibration:vision_visp/visp_hand2eye_calibration:vision_visp/visp_tracker
--DCATKIN_DEVEL_PREFIX=/home/parallels/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/parallels/catkin_ws/install -G Unix Makefiles
